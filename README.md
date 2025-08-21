@@ -10,7 +10,7 @@ Es el primer proyecto asignado por en el programa de Alura latam One oracle next
 
 - **Ver Lista**: La lista de amigos se actualiza automáticamente debajo del campo de entrada.
 
-- **Eliminar Amigos**: Haz clic en el botón ✕ junto al nombre de un amigo para eliminarlo.
+- **Eliminar Amigos**: Haz clic en el botón **✕** junto al nombre de un amigo para eliminarlo.
 
     ![Eliminar](assets/Eliminar.png)
 
