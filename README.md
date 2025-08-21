@@ -6,7 +6,7 @@ Una aplicación web sencilla para organizar un juego de Amigo Secreto, que permi
 
 ## Características
 - **Agregar Amigos**: Escribe un nombre en el campo de entrada y haz clic en "Agregar". 
-    ![App Screenshot](assets/1.png)
+    <img src="assets/1.png" >
 - **Ver Lista**: La lista de amigos se actualiza automáticamente debajo del campo de entrada.
 - **Eliminar Amigos**: Haz clic en el botón ✕ junto al nombre de un amigo para eliminarlo.
     ![App Screenshot](assets/2.png)
@@ -18,6 +18,5 @@ Una aplicación web sencilla para organizar un juego de Amigo Secreto, que permi
 ## Limitaciones
 - Requiere al menos 4 amigos para realizar un sorteo.
 - La entrada de nombres está restringida a letras y espacios (2-50 caracteres).
-
 
 
