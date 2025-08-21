@@ -1,8 +1,7 @@
 
-## **Challenge de Amigo Secreto**
+## **CHALLENGE DEL AMIGO SECRETO**
 
-Una aplicación web sencilla para organizar un juego de Amigo Secreto, que permite agregar amigos, asignar un Amigo Secreto aleatoriamente y gestionar la lista.
-
+Es el primer proyecto asignado por en el programa de Alura latam One oracle next education. Es un pequeño juego en el cual al crear una lista de amigos puedes sortear para eligir un "Amigo Secreto".
 
 ## Características
 - **Agregar Amigos**: Escribe un nombre en el campo de entrada y haz clic en "Agregar".
@@ -15,7 +14,7 @@ Una aplicación web sencilla para organizar un juego de Amigo Secreto, que permi
 
     ![Eliminar](assets/Eliminar.png)
 
-- **Sortear Amigo**: Haz clic en el botón "Sortear" (habilitado con 4+ amigos) para seleccionar un amigo aleatoriamente.
+- **Sortear Amigo**: Haz clic en el botón "Sortear" (habilitado con 4 o más amigos) para seleccionar un amigo aleatoriamente.
 
     ![Sortear](assets/Sortear.png)
 
